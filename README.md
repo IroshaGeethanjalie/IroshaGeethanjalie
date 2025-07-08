@@ -12,7 +12,7 @@
 - Languages: JavaScript | TypeScript | Python | Java | PHP  
 - Frameworks: React | Node.js | Tailwind CSS  
 - Databases: MySQL | MongoDB  
-- Tools: Git | GitHub | Figma | VS Code | Postman | Swagger | Adobe Photoshop | GIMP  
+- Tools: Git | GitHub | Figma | VS Code | Postman | Swagger | Adobe Photoshop | GIMP | Docker
 
 ---
 
